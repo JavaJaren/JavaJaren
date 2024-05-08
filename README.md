@@ -1,4 +1,5 @@
 <h2 align="left">ello</h2>
+Hello I am a 17 year old game developer
 
 ###
 
@@ -42,10 +43,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JavaJaren/JavaJaren/output/snake.svg" alt="Snake animation" />
-
-###
